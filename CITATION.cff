@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: If you use the analysis code in this repository, please cite the associated
+  research article in preferred-citation.
+type: software
+title: KIF13B-in-Atherosclerosis
+authors:
+- name: KIF13B-in-Atherosclerosis project
+repository-code: https://github.com/DrZoggg/KIF13B-in-Atherosclerosis
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Miao
+    given-names: Guolin
+  - family-names: Han
+    given-names: Yufei
+  - family-names: Chen
+    given-names: Jingxuan
+  - family-names: Liu
+    given-names: Yiran
+  - family-names: Zhang
+    given-names: Ge
+  - family-names: Pei
+    given-names: Shaotong
+  - family-names: Zhao
+    given-names: Yinqi
+  - family-names: Xu
+    given-names: Yitong
+  - family-names: Zheng
+    given-names: Liwen
+  - family-names: Li
+    given-names: Zhaoling
+  - family-names: Liu
+    given-names: Xiangru
+  - family-names: Shi
+    given-names: Sijing
+  - family-names: Kang
+    given-names: Xuya
+  - family-names: Liu
+    given-names: Yahan
+  - family-names: Zhang
+    given-names: Ling
+  - family-names: Huang
+    given-names: Wei
+  - family-names: Wang
+    given-names: Yuhui
+  - family-names: Tang
+    given-names: Junnan
+  - family-names: Dong
+    given-names: Erdan
+  - family-names: Xian
+    given-names: Xunde
+  title: Vascular smooth muscle cell-derived KIF13B inhibits proinflammatory responses
+    to protect against atherosclerosis
+  journal: Journal of Clinical Investigation
+  year: 2026
+  volume: '136'
+  issue: '6'
+  doi: 10.1172/jci194175
+  url: https://doi.org/10.1172/jci194175
+  start: e194175
