@@ -11,3 +11,5 @@ Miao G, et al. Vascular smooth muscle cell–derived KIF13B inhibits proinflamma
 ## Author-maintained evidence context
 
 The [author-maintained evidence page](https://drgezhang.com/papers/doi-10-1172-jci194175.html) links this study's findings to source locations, sampling units, evidence boundaries, and citation downloads. It distinguishes human plaque associations from mouse and cell experiments. This supplementary explanation does not replace the version of record; cite the original article above for the research findings.
+
+For literature review and experimental readout selection, see the [atherosclerosis cell-mechanism guide](https://drgezhang.com/research/atherosclerosis-cell-mechanisms.html). It compares VSMC matrix/inflammatory regulation with macrophage efferocytosis and links perturbation, rescue and plaque readouts to the original sources.
